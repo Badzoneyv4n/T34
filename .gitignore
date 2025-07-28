@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Session files for Telethon
+*.session
+
+# Logs
+logs/
+*.log
+
+# Ignore virtual env
+.venv
+
+#VS Code settings
+.vscode

@@ -1,0 +1,6 @@
+# This is a .dockerignore file
+.git
+.gitignore
+test.py
+Dockerfile
+docker-compose.yml

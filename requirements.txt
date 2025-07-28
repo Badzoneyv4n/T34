@@ -1,0 +1,13 @@
+fastapi[standard]
+python-dotenv
+telethon
+python-telegram-bot==13.15
+websocket-client>=1.6.1
+requests>=2.31.0
+python-dateutil>=2.8.2
+tzlocal>=5.1
+websockets>=12.0
+pandas>=2.0.3
+colorama>=0.4.6
+pytz
+tzlocal

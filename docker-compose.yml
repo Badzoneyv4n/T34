@@ -1,0 +1,13 @@
+# This is a docker-compose.yml file for T34Bot
+version: "1.0"
+
+services:
+  t34bot:
+    build: .
+    container_name: t34bot
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    # Optional: network or ports if needed
