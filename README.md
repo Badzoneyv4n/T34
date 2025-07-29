@@ -119,7 +119,7 @@ Depending on your system:
 
 #### 🔵 Windows (Git Bash / Terminal)
 ```bash
-git clone https://github.com/yourusername/t34.git
+git clone https://github.com/Badzoneyv4n/T34.git
 cd t34
 python -m venv .venv
 source .venv/Scripts/activate
@@ -128,7 +128,7 @@ pip install -r requirements.txt
 
 ### 🟢 Mac / Linux
 ```bash
-git clone https://github.com/yourusername/t34.git
+git clone https://github.com/Badzoneyv4n/T34.git
 cd t34
 python3 -m venv .venv
 source .venv/bin/activate
